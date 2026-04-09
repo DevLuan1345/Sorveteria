@@ -16,12 +16,12 @@ Landing pages são projetadas justamente para guiar o usuário a uma única aç�
 
 A landing page segue uma estrutura moderna e eficiente:
 
-🍦 Header – Identidade visual e navegação clara
-🎯 Seção Principal (Hero) – Destaque para os produtos e chamada atrativa
-🍨 Cardápio / Sabores – Apresentação dos sorvetes disponíveis
-⭐ Diferenciais – Qualidade, variedade e experiência
-💬 Depoimentos – Prova social e confiança
-📞 Contato / CTA – Chamada para ação estratégica
+- 🍦 Header – Identidade visual e navegação clara
+- 🎯 Seção Principal (Hero) – Destaque para os produtos e chamada atrativa
+- 🍨 Cardápio / Sabores – Apresentação dos sorvetes disponíveis
+- ⭐ Diferenciais – Qualidade, variedade e experiência
+- 💬 Depoimentos – Prova social e confiança
+- 📞 Contato / CTA – Chamada para ação estratégica
 
 Cada seção foi pensada para criar uma experiência agradável e levar o usuário até a decisão de compra.
 
@@ -31,10 +31,10 @@ O design utiliza cores vibrantes (roxo e amarelo), elementos visuais atrativos e
 
 Além disso, a página é:
 
-📱 Responsiva – Adaptada para mobile, tablet e desktop
-⚡ Leve e rápida – Foco na performance
-🎯 Direta – Estrutura otimizada para conversão
-😍 Visualmente atrativa – Estilo moderno e chamativo
+- 📱 Responsiva – Adaptada para mobile, tablet e desktop
+- ⚡ Leve e rápida – Foco na performance
+- 🎯 Direta – Estrutura otimizada para conversão
+- 😍 Visualmente atrativa – Estilo moderno e chamativo
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -49,4 +49,5 @@ Este projeto demonstra como uma landing page bem construída pode ser uma podero
 ## 🖇️Links
 
 Repositório: https://github.com/DevLuan1345/Sorveteria
+
 Deploy do Projeto: https://devluan1345.github.io/Sorveteria/
